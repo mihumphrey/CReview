@@ -1,0 +1,12 @@
+Inputs:
+    A single number to sum 
+
+Outputs:
+    The summation of that number
+
+Objectives: 
+    To sum 1 to the number (sum of 3 is 6, sum of 5 is 15)
+        - read int from stdin
+        - loop from 1 to that int
+        - sum all numbers
+        - print summation to stdout

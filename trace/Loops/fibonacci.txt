@@ -1,0 +1,2 @@
+Enter a number: 
+The 40'th fibonacci value is: 102334155

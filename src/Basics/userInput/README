@@ -1,0 +1,11 @@
+User Input
+
+Inputs:
+    One line of text in stdin
+
+Outputs:
+    Same line from stdin -- stdout
+
+Objective:
+    Prints the value that the user inputs into stdin
+

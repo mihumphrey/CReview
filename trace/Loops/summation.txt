@@ -1,0 +1,2 @@
+Enter a number to sum:
+Total is: 7875

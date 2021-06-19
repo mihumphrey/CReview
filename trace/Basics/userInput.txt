@@ -1,0 +1,2 @@
+Please input a line to print
+Peter Piper picked a peck of pickled peppers

@@ -1,0 +1,11 @@
+Ascii
+
+Inputs:
+    Line from stdin
+    '~' to exit
+
+Outputs:
+    Characters inputted in ascii value
+
+Objectives:
+    Print all character's ascii values  that the user inputs from stdin to stdout, using '~' to quit

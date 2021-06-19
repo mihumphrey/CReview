@@ -1,0 +1,14 @@
+While Loop
+
+Inputs:
+    Line(s) from stdin
+    'q' to exit
+
+Outputs:
+    Same lines from stdout
+
+Objectives:
+    Print all lines that the user inputs from stdin to stdout, using 'q' to quit
+        - reads line from stdin
+        - if line == q, exit loop
+        - else print line to stdout

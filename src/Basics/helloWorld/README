@@ -1,0 +1,10 @@
+Hello World
+
+Inputs: 
+    NONE
+
+Outputs: 
+    "Hello, World!" -- stdout
+
+Objective: 
+    Prints "Hello, World!" to stdout then returns 0

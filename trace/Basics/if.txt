@@ -1,0 +1,12 @@
+Please enter a series of numbers, 0 to quit
+Positive Number
+Negative Number
+Positive Number
+Negative Number
+Positive Number
+Negative Number
+Positive Number
+Negative Number
+Positive Number
+Negative Number
+Zero, exiting

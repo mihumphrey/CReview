@@ -1,0 +1,10 @@
+Inputs:
+    A single number to sum 
+
+Outputs:
+    The fibonacci sequence index of that number
+
+Objectives: 
+    To compute the fibonacci number of the given input
+        F_x = F_x-1 + F_x-2, F_0 = 1, F_1 = 1
+        - Loop iteratively to compute fibonacci sequence

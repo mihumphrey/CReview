@@ -1,0 +1,8 @@
+Inputs:
+    Character sequence read from stdin
+
+Outputs:
+    Whether or not each character is a vowel
+
+Objectives:
+    Use conditionals to determine whether or not an inputted character is a vowel
